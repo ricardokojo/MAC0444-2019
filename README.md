@@ -6,9 +6,15 @@
 
 **Página do professor**: [https://www.ime.usp.br/~renata/](https://www.ime.usp.br/~renata/)
 
-**Forma de Avaliação**: TODO
+**Página da disciplina**: *no Paca*
 
-**Cobra presença?** TODO
+**Forma de Avaliação**: `(2*MP+L+E)/4`, sendo:
+
+- `MP` -> média de provas = `(P1+P2)/2`;
+- `L` -> média aritmética das listas;
+- - `E` -> nota de projeto.
+
+**Cobra presença?** Não
 
 ## Comentários sobre a matéria
 
@@ -26,4 +32,4 @@
 
 ## Bibliografia
 
-TODO
+**Obs:** neste semestre era possível fazer **MAC-0420** e **Baseados**, mas não conheço ninguém que fez.
